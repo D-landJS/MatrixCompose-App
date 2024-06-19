@@ -1,6 +1,6 @@
 # Matrix-App
 
-It's a simple Tic Tac Toe project in Kotlin using Compose with animations.
+It is a minimalist application inspired by the code seen in the movie "Matrix", developed in Kotlin with Jetpack Compose.
 
 ---
 
